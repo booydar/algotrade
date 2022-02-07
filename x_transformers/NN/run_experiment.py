@@ -1,4 +1,3 @@
-from .remote.variables import *
 
 import random
 import time
